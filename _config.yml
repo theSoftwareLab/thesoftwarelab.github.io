@@ -1,6 +1,6 @@
 # Site settings
 title: theSoftwareLab
-email: manos.georgopoulos@gmail.com
+email: info@thesoftwarelab.eu
 url: https://thesoftwarelab.eu/
 description: "Software development, Java, Spring, Spring Boot, Maven, React, HTML, SQL"
 keywords: "Software development, Java, Spring, Spring Boot, Maven, React, HTML, SQL"
@@ -39,8 +39,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/egeorgopoulos
   - title: github
     url: https://github.com/theSoftwareLab
 
